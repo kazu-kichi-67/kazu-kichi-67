@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-X:
-https://x.com/kazu_kichi_67
+I'm software engineer.
 
-Prairie Card:
-https://my.prairie.cards/u/kazu_kichi_67
+X: https://x.com/kazu_kichi_67
+
+Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 
 <!--
 **kazu-kichi-67/kazu-kichi-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
