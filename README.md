@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm software engineer.
+I'm product manager.
 
 X: https://x.com/kazu_kichi_67
 
@@ -12,7 +12,8 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 
 ## 職歴
 
-- 2012/4 ~ 独立系SIer(社員数3000人程度)
+- 2012/4 ~ 2025/1 独立系SIer(社員数3000人程度)
+- 2025/4 ~ 事業会社のテクニカルPdM (予定)
 
 ## 業務歴 / スキルセット
 
@@ -84,6 +85,8 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
   - イベント参加レポートなど
 - note: https://note.com/kazu_kichi_67
   - 読書メモ
+- しずかなインターネット: https://sizu.me/kazu_kichi_67
+  - 雑記 
 
 ### アドベントカレンダー
 
