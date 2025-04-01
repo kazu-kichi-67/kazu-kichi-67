@@ -13,7 +13,7 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 ## 職歴
 
 - 2012/4 ~ 2025/1 独立系SIer(社員数3000人程度)
-- 2025/4 ~ 事業会社のテクニカルPdM (予定)
+- 2025/4 ~ 事業会社のテクニカルPdM
 
 ## 業務歴 / スキルセット
 
