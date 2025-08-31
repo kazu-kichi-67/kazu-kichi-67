@@ -38,6 +38,7 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
   - Java, Spring Boot, Gradle, AWS, EKS, DynamoDB, KDS, Aurora MySQL, Redis, GitHub Actions, GitHub Copilot
   - Modular Monolith, Onion Architecture, DDD, Event Storming
   - フルリモート
+- 2025/4 ~ 印刷系EC Tech PdM
 
 ## 資格
 
@@ -76,6 +77,11 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 - 12月 エンジニアの成長を応援する忘年LT大会2024 LT
   - [スライド](https://speakerdeck.com/kazu_kichi_67/engineers-lt-year-end-2024)
 
+2025年
+
+- 3月 Voicyゲスト 技術図書館
+  - [link](https://voicy.jp/channel/820892/6575995)
+
 ### アウトプット
 
 - Qiita: https://qiita.com/kazu_kichi_67
@@ -86,7 +92,7 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 - note: https://note.com/kazu_kichi_67
   - 読書メモ
 - しずかなインターネット: https://sizu.me/kazu_kichi_67
-  - 雑記 
+  - 雑記
 
 ### アドベントカレンダー
 
