@@ -83,6 +83,8 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
   - [link](https://voicy.jp/channel/820892/6575995)
 - 9月 キチピー リジェクトコン【非公式】 10m枠
   - [スライド](https://kazu-kichi-67.github.io/slidev-kichipi-reject-conference/1)
+- 9月 キャンプ場で焚き火囲んでLT会
+  - [スライド](https://kazu-kichi-67.github.io/slidev-camp-takibi-lt/1)
 
 ### アウトプット
 
