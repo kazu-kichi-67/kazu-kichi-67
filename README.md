@@ -82,9 +82,11 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 - 3月 Voicyゲスト 技術図書館
   - [link](https://voicy.jp/channel/820892/6575995)
 - 9月 キチピー リジェクトコン【非公式】 10m枠
-  - [スライド](https://kazu-kichi-67.github.io/slidev-kichipi-reject-conference/1)
+  - [スライド](https://kazu-kichi-67.github.io/slidev-kichipi-reject-conference)
 - 9月 キャンプ場で焚き火囲んでLT会
-  - [スライド](https://kazu-kichi-67.github.io/slidev-camp-takibi-lt/1)
+  - [スライド](https://kazu-kichi-67.github.io/slidev-camp-takibi-lt)
+- 10月 渋谷でビール片手にLT会！
+  - [スライド](https://kazu-kichi-67.github.io/slidev-dai3mokuyou-lt-kai)
 
 ### アウトプット
 
