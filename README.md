@@ -87,6 +87,8 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
   - [スライド](https://kazu-kichi-67.github.io/slidev-camp-takibi-lt)
 - 10月 渋谷でビール片手にLT会！
   - [スライド](https://kazu-kichi-67.github.io/slidev-dai3mokuyou-lt-kai)
+- 12月 忘年LT会 - フタコ.dev
+  - TODO
 
 ### アウトプット
 
@@ -111,7 +113,18 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 - [Agile](https://adventar.org/calendars/10757)
   - 3日目
 - [キャンプ x エンジニア](https://adventar.org/calendars/11140)
-  - 作成者、4, 11, 18, 25日目
+  - 作成, 4, 11, 18, 25日目
+ 
+2025年
+
+- [キャンプ x エンジニア](https://adventar.org/calendars/11403)
+  - 作成, 1日目
+- [エンジニア転職（1枚目）](https://adventar.org/calendars/11370)
+  - 10日目
+- [横浜北部ソフトウェアエンジニアの集い](https://adventar.org/calendars/11417)
+  - 15日目
+- [筆者公認ノッカリAdvent Calendar(柳川慶太編) パート3](https://adventar.org/calendars/11633)
+  - 19日目
 
 ### イベント参加
 
