@@ -119,6 +119,8 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 
 - [キャンプ x エンジニア](https://adventar.org/calendars/11403)
   - 作成, 1日目
+- [すどうアドベントカレンダー 2025](https://adventar.org/calendars/11847)
+  - 6日目
 - [エンジニア転職（1枚目）](https://adventar.org/calendars/11370)
   - 10日目
 - [横浜北部ソフトウェアエンジニアの集い](https://adventar.org/calendars/11417)
