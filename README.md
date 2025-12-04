@@ -88,7 +88,7 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 - 10月 渋谷でビール片手にLT会！
   - [スライド](https://kazu-kichi-67.github.io/slidev-dai3mokuyou-lt-kai)
 - 12月 忘年LT会 - フタコ.dev
-  - TODO
+  - [スライド](https://kazu-kichi-67.github.io/slidev-futako-dev-bounen-lt)
 
 ### アウトプット
 
