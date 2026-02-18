@@ -90,6 +90,11 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 - 12月 忘年LT会 - フタコ.dev
   - [スライド](https://kazu-kichi-67.github.io/slidev-futako-dev-bounen-lt)
 
+2026年
+
+- 2月 キャンプ好きエンジニア Meetup Vol.6
+  - [スライド](https://kazu-kichi-67.github.io/slidev-camping_engineer/)
+
 ### アウトプット
 
 - Qiita: https://qiita.com/kazu_kichi_67
