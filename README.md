@@ -137,6 +137,15 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 
 compass: https://connpass.com/user/kikuchk_camp/
 
+### イベント運営
+
+compass: https://connpass.com/user/kikuchk_camp/open/
+
+- JJUG CCC 2024 Fall ~  当日スタッフ
+- きのこカンファレンス2025 当日スタッフ
+- EMConf JP 2026 当日スタッフ
+- 大吉祥寺.pm 2026 コアスタッフ
+
 <!--
 **kazu-kichi-67/kazu-kichi-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
