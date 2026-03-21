@@ -94,6 +94,10 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
 
 - 2月 キャンプ好きエンジニア Meetup Vol.6
   - [スライド](https://kazu-kichi-67.github.io/slidev-camping_engineer/)
+- 3月 Podcast ぐちポジ.fm ゲスト #69, #70, #71
+  - [link](https://open.spotify.com/show/4n9DJc5tbhOHea64hXeuRx)
+- 3月 テックネタライトニングトーク大会
+  - [link](https://rpacommunity.connpass.com/event/387284/)
 
 ### アウトプット
 
@@ -141,7 +145,7 @@ compass: https://connpass.com/user/kikuchk_camp/
 
 compass: https://connpass.com/user/kikuchk_camp/open/
 
-- JJUG CCC 2024 Fall ~  当日スタッフ
+- JJUG CCC 2024 Fall 以降 当日スタッフ
 - きのこカンファレンス2025 当日スタッフ
 - EMConf JP 2026 当日スタッフ
 - 大吉祥寺.pm 2026 コアスタッフ
