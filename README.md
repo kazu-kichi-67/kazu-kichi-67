@@ -98,10 +98,11 @@ Prairie Card: https://my.prairie.cards/u/kazu_kichi_67
   - [link](https://open.spotify.com/show/4n9DJc5tbhOHea64hXeuRx)
 - 3月 テックネタライトニングトーク大会
   - [link](https://rpacommunity.connpass.com/event/387284/)
+  - Notion Custum Agentの話
 - 5月 キャンプ場で焚き火を囲んでLT会 #2
   - [link](https://kaitou.connpass.com/event/379977/)
 - 6月 [エンジニア限定] Contrea AI駆動開発Conference 2026
-  - [link](https://speakerdeck.com/kazu_kichi_67/qi-dian-si-kao-chu-li-defen-jie-suru-pmye-wu-nozi-dong-hua-she-ji/edit)
+  - [スライド](https://speakerdeck.com/kazu_kichi_67/qi-dian-si-kao-chu-li-defen-jie-suru-pmye-wu-nozi-dong-hua-she-ji/edit)
 
 ### アウトプット
 
